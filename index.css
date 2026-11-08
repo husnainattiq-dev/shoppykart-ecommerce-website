@@ -1,0 +1,31 @@
+.nav-link:hover{
+   color: rgb(206, 41, 41);
+}
+
+
+.nav-link{
+   font-size: 13px;
+   color: black;
+   font-style: "Kumbh Sans", sans-serif;
+}
+
+.subdisplay-text{
+   font-size: 60px;
+   text-align: center;
+   text-shadow: rgb(0 0 0) 0px 0px 0px;
+   margin: 0;
+   padding: 0;
+}
+
+.display-text{
+   font-size: 30px;
+   margin-top: 11%;
+   text-shadow: rgb(3 4 12) 0px 0px 0px;
+   text-align: center;
+}
+
+.testimonials{
+   background-image: url(banner3.jpg);
+   padding-bottom: 20%;
+   padding-top: 20%;
+}
